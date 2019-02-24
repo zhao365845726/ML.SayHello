@@ -1,0 +1,9 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/ML.SayHello/.vs/ML.SayHello/v15
+/ML.SayHello/ML.SayHello/bin/Debug/netstandard2.0
+/ML.SayHello/ML.SayHello/obj
+/ML.SayHello/ML.SayHello.Test/bin/Debug/netcoreapp2.1
+/ML.SayHello/ML.SayHello.Test/obj
